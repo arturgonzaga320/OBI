@@ -1,3 +1,3 @@
-##OBI<sub>Olímpiada Brasileira de Informática
+## OBI
 
 Resoluções de exercícios da <a href="https://olimpiada.ic.unicamp.br/pratique/">OBI</a>
